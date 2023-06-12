@@ -2,7 +2,7 @@ package org.DonguYapilari;
 
 import java.util.Scanner;
 
-public class Main {
+public class ForDongusu {
     public static void main(String[] args) {
         //---------- FOR DONGUSU --------------------
         int i;

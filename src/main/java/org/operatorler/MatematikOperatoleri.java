@@ -1,4 +1,4 @@
-package Operatorler;
+package org.operatorler;
 
 public class MatematikOperatoleri {
     public static void main(String[] args) {
@@ -48,7 +48,7 @@ public class MatematikOperatoleri {
         System.out.println(++x);// once guncelledi sonra yazdirdi prefix
 
 
-        
+
 
 
 
