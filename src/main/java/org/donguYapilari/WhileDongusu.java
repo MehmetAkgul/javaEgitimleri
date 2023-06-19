@@ -1,4 +1,4 @@
-package org.DonguYapilari;
+package org.donguYapilari;
 
 public class WhileDongusu {
 
