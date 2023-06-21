@@ -1,4 +1,4 @@
-package org.arrayList.sarkicilarProjesi;
+package org.list.arrayList.sarkicilarProjesi;
 
 import java.util.ArrayList;
 
