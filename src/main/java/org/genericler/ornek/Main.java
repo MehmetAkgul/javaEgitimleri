@@ -17,6 +17,10 @@ public class Main {
         while (true) {
             System.out.println(islemler);
             String islem = scanner.nextLine();
+            if (islem.equals("q")) {
+                System.out.println("Cikis Yapiliyorr.....");
+                break;
+            }
             //Birinci Ogrenci
             System.out.println("Birinci Ogrenci Ismi");
             String isim1 = scanner.nextLine();
@@ -44,11 +48,7 @@ public class Main {
             int ed3 = scanner.nextInt();
             int fiz3 = scanner.nextInt();
 
-
-            if (islem.equals("q")) {
-
-
-            } else if (islem.equals("1")) {
+            if (islem.equals("1")) {
                 EsitAgirlik esitAgirlik1 = new EsitAgirlik(trk1, mat1, ed1, fiz1, isim1);
                 EsitAgirlik esitAgirlik2 = new EsitAgirlik(trk2, mat2, ed2, fiz2, isim2);
                 EsitAgirlik esitAgirlik3 = new EsitAgirlik(trk3, mat3, ed3, fiz3, isim3);
