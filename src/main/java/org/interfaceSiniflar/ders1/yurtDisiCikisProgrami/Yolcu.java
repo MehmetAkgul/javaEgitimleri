@@ -1,4 +1,4 @@
-package org.interfaceSiniflar.yurtDisiCikisProgrami;
+package org.interfaceSiniflar.ders1.yurtDisiCikisProgrami;
 
 import java.util.Scanner;
 

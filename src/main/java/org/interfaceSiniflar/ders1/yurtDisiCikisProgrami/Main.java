@@ -1,4 +1,4 @@
-package org.interfaceSiniflar.yurtDisiCikisProgrami;
+package org.interfaceSiniflar.ders1.yurtDisiCikisProgrami;
 public class Main {
     public static void main(String[] args) throws InterruptedException {
         System.out.println("Sabiha Gokcen Havalimanina Hosgeldiniz ");

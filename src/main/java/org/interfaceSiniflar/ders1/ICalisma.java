@@ -1,4 +1,4 @@
-package org.interfaceSiniflar;
+package org.interfaceSiniflar.ders1;
 
 public interface ICalisma {
     void calis();
