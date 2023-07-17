@@ -1,4 +1,4 @@
-package org.collectionSortComparableInterfaceveComparator.ComparableInterface;
+package org.collectionFramework.sorting.ComparableInterface;
 
 
 import java.util.*;

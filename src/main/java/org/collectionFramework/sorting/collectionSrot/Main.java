@@ -1,4 +1,4 @@
-package org.collectionSortComparableInterfaceveComparator.collectionSrot;
+package org.collectionFramework.sorting.collectionSrot;
 
 
 import java.util.*;

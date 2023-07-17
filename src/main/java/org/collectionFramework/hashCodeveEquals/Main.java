@@ -1,4 +1,4 @@
-package org.hashCodeveEquals;
+package org.collectionFramework.hashCodeveEquals;
 
 import java.util.HashSet;
 import java.util.Objects;
