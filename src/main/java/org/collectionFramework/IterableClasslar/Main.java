@@ -1,4 +1,4 @@
-package org.IterableClasslar;
+package org.collectionFramework.IterableClasslar;
 
 import java.util.Iterator;
 

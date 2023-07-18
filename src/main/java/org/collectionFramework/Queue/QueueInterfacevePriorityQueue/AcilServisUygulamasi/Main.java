@@ -1,4 +1,4 @@
-package org.collectionFramework.Queue.QueneInterfacevePriorityQuenue.AcilServisUygulamasi;
+package org.collectionFramework.Queue.QueueInterfacevePriorityQueue.AcilServisUygulamasi;
 
 import java.util.PriorityQueue;
 import java.util.Queue;

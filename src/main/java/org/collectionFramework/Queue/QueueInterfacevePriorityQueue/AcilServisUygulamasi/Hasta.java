@@ -1,4 +1,4 @@
-package org.collectionFramework.Queue.QueneInterfacevePriorityQuenue.AcilServisUygulamasi;
+package org.collectionFramework.Queue.QueueInterfacevePriorityQueue.AcilServisUygulamasi;
 
 public class Hasta implements Comparable<Hasta> {
     private String isim;

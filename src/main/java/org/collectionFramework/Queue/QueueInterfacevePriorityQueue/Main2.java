@@ -1,4 +1,4 @@
-package org.collectionFramework.Queue.QueneInterfacevePriorityQuenue;
+package org.collectionFramework.Queue.QueueInterfacevePriorityQueue;
 
 import java.util.PriorityQueue;
 import java.util.Queue;
