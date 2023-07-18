@@ -1,4 +1,4 @@
-package org.collectionFramework.HashMap.harfFrekansi;
+package org.Map.HashMap.harfFrekansi;
 
 import java.util.Map;
 import java.util.Scanner;
