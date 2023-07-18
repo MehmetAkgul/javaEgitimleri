@@ -1,4 +1,4 @@
-package org.collectionFramework.HashMap;
+package org.Map.HashMap;
 
 import java.util.*;
 
