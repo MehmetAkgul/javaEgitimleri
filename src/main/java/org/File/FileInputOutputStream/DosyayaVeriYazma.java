@@ -11,10 +11,10 @@ public class DosyayaVeriYazma {
 
         FileOutputStream fos = null;
 
-        //   fos = new FileOutputStream("dosya.txt");
+        //   fos = new FileOutputStream("notlar.txt");
 
 
-        File file = new File("dosya.txt");// yeni dosya olusturdum
+        File file = new File("notlar.txt");// yeni dosya olusturdum
 
         try {
             //fos = new FileOutputStream(file);//  hepsini sil ve yeniden yaz

@@ -1,0 +1,5 @@
+Mehmet Akgul,Bilgisayar Ogretmenligi
+Turkan Akgul,Bilgisayar Muhendisligi
+Ayse Nilda Akgul,Dis Hekimligi
+Mustafa Eymen Akgul,Yazilim Muhendisligi
+Sukriye Akgul,Sinif Ogretmenligi
